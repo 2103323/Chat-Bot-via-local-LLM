@@ -1,4 +1,3 @@
-```markdown
 # Agentic AI
 
 Agentic AI is an autonomous artificial intelligence framework designed to make decisions and execute tasks with minimal human intervention. It leverages generative AI models to plan, route, and execute tasks through a well‐defined architecture and set of patterns.
@@ -143,4 +142,3 @@ Contributions are welcome! Please fork the repository and open pull requests for
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-```
